@@ -1,32 +1,32 @@
-# 🧭 Parcours Complet — Sécurité des Systèmes d’Information & GRC (100 % Gratuit)
+# 🧭 Parcours Complet - Sécurité des Systèmes d’Information & GRC 
 
 Ce fichier regroupe l'ensemble complet et détaillé des cours que j'aurai à suivre tout le long de ce parcours. Je tiens à préciser qu'ils sont 100% gratuits, donc accessibles à tous.
 Faites en bon usage.
 
 ---
 
-## 🧩 **0️⃣ — Démarrage & Méthodes de Travail**
+## 🧩 **0️⃣ - Démarrage & Méthodes de Travail**
 
 > 🎯 *Apprendre à se documenter, suivre les menaces, adopter une posture de sécurité professionnelle.*
 
-- **Effectuez votre veille en cybersécurité** — *OpenClassrooms*  
-- **Cyber Security Awareness** — *TryHackMe* *(gratuit)*  
+- **Effectuez votre veille en cybersécurité** - *OpenClassrooms*  
+- **Cyber Security Awareness** - *TryHackMe* *(gratuit)*  
 
 ---
 
-## 🧠 **1️⃣ — Fondamentaux Réseaux, Linux & Windows**
+## 🧠 **1️⃣ - Fondamentaux Réseaux, Linux & Windows**
 
-> 🎯 *Comprendre les bases réseau, systèmes et web — indispensables à tout profil cyber.*
+> 🎯 *Comprendre les bases réseau, systèmes et web - indispensables à tout profil cyber.*
 
-- **Networking Basics** — *Cisco Skills for All*  
+- **Networking Basics** - *Cisco Skills for All*  
   🔗 [https://skillsforall.com](https://skillsforall.com)
-- **How The Web Works** — *TryHackMe* *(gratuit)*  
-- **Introduction to Linux** — *The Linux Foundation (edX)*  
+- **How The Web Works** - *TryHackMe* *(gratuit)*  
+- **Introduction to Linux** - *The Linux Foundation (edX)*  
   🔗 [https://www.edx.org/course/introduction-to-linux](https://www.edx.org/course/introduction-to-linux)
-- **Initiez-vous à Linux** — *OpenClassrooms*  
-- **Windows Fundamentals** — *TryHackMe* *(gratuit)*  
-- **Windows Fundamentals** — *LetsDefend* *(version orientée défense)*  
-- **Installez et déployez Windows 10** — *OpenClassrooms*
+- **Initiez-vous à Linux** - *OpenClassrooms*  
+- **Windows Fundamentals** - *TryHackMe* *(gratuit)*  
+- **Windows Fundamentals** - *LetsDefend* *(version orientée défense)*  
+- **Installez et déployez Windows 10** - *OpenClassrooms*
 
 ---
 
