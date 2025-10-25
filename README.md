@@ -47,7 +47,7 @@ Il constitue mon **ePortfolio** professionnel, documentant mes apprentissages, p
 
 ## 🧠 Auteur
 👤 ITSFB
-🔗 [LinkedIn](www.linkedin.com/in/shakira-francheska-ipoule-tsimi-b1705124b)
+🔗 [LinkedIn](https://www.linkedin.com/in/shakira-francheska-ipoule-tsimi-b1705124b)
 
 
 ---
