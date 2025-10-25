@@ -1,4 +1,4 @@
-# 🛡️ Parcours — Spécialiste en Sécurité des SI & GRC
+# 🛡️ Parcours - Spécialiste en Sécurité des SI & GRC
 
 Ce dépôt retrace mon parcours complet pour devenir **Spécialiste en Sécurité des Systèmes d'Information (SSI)** et en **Gouvernance, Risques et Conformité (GRC)**, réalisé en parallèle de ma formation **Ingénieur en Réseaux et Télécommunications**.  
 Il constitue mon **ePortfolio professionnel**, documentant mes apprentissages, compétences, et projets pratiques en cybersécurité.
@@ -32,6 +32,7 @@ Il constitue mon **ePortfolio professionnel**, documentant mes apprentissages, c
 
 ## 📈 Suivi & progression
 
+Le lien ci-après conduit au suivi de mon évolution durant ce parcours.
 📍 [Tableau de suivi du parcours SSI & GRC](https://github.com/users/itfsb/projects/1)
 
 | Statut | Signification |
