@@ -32,7 +32,7 @@ Il constitue mon **ePortfolio professionnel**, documentant mes apprentissages, c
 
 ## 📈 Suivi & progression
 
-📍 [Tableau de suivi du parcours SSI & GRC]() *(à venir)*
+📍 [Tableau de suivi du parcours SSI & GRC](https://github.com/users/itfsb/projects/1)
 
 | Statut | Signification |
 |:-------:|:--------------|
