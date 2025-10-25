@@ -33,6 +33,7 @@ Il constitue mon **ePortfolio professionnel**, documentant mes apprentissages, c
 ## 📈 Suivi & progression
 
 Le lien ci-après conduit au suivi de mon évolution durant ce parcours.
+
 📍 [Tableau de suivi du parcours SSI & GRC](https://github.com/users/itfsb/projects/1)
 
 | Statut | Signification |
