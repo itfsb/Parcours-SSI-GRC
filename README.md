@@ -36,9 +36,9 @@ Il constitue mon **ePortfolio professionnel**, documentant mes apprentissages, c
 
 | Statut | Signification |
 |:-------:|:--------------|
-| ⚪ | À faire |
-| 🟡 | En cours |
-| 🟢 | Terminé |
+| 🟢 | To Do |
+| 🟠 | In progress |
+| 🟣 | Done |
 
 ---
 
